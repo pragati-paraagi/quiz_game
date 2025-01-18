@@ -1,6 +1,6 @@
 # quiz_game
 The **Quiz Game App** is a fun and interactive mobile app that challenges your knowledge and rewards you with prizes based on your performance. It’s built with **Flutter** and has cool features like a dynamic scoring system, fun animations, scratch cards for prizes, state management, and questions that are fetched from an API. This app is designed to work on both Windows desktop and mobile platforms.
-
+Below are the screenshots of the app running on both mobile and Windows platforms.
 **Key Features**
 - **8-Question Quiz**: Each quiz session consists of 8 questions that are dynamically fetched from an external API, providing a fresh set of questions every time.
 
@@ -34,7 +34,6 @@ The **Quiz Game App** is a fun and interactive mobile app that challenges your k
 - **Confetti Package**: Provides celebratory confetti effects.
 - **API Integration**: Questions are fetched from an external API to ensure the quiz content remains fresh.
 
-![image alt](https://github.com/pragati-paraagi/quiz_game/blob/master/Screenshot%202025-01-18%20111814.png)
 ![image alt](https://github.com/pragati-paraagi/quiz_game/blob/master/Screenshot%202025-01-18%20111736.png)
 ![image alt](https://github.com/pragati-paraagi/quiz_game/blob/master/Screenshot%202025-01-18%20111722.png)
 ![image alt](https://github.com/pragati-paraagi/quiz_game/blob/master/Screenshot%202025-01-18%20111651.png)
