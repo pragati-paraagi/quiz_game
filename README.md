@@ -40,10 +40,5 @@ The **Quiz Game App** is a fun and interactive mobile app that challenges your k
 <img src="https://github.com/pragati-paraagi/quiz_game/blob/master/quiz_scoreb.jpg" width="300" />
 <img src="https://github.com/pragati-paraagi/quiz_game/blob/master/quiz_scratch2.jpg" width="300" />
 <img src="https://github.com/pragati-paraagi/quiz_game/blob/master/quiz_scratch.jpg" width="300" />
-![image alt](https://github.com/pragati-paraagi/quiz_game/blob/master/quiz_home.jpg) ![image alt](https://github.com/pragati-paraagi/quiz_game/blob/master/quiz_correct.jpg)
 
-![image alt](https://github.com/pragati-paraagi/quiz_game/blob/master/quiz_Exit.jpg)
-![image alt](https://github.com/pragati-paraagi/quiz_game/blob/master/quiz_scoreb.jpg)
-![image alt](https://github.com/pragati-paraagi/quiz_game/blob/master/quiz_scratch2.jpg)
-![image alt](https://github.com/pragati-paraagi/quiz_game/blob/master/quiz_scratch.jpg)
 
