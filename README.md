@@ -1,5 +1,5 @@
 # quiz_game
-The **Quiz Game App** is a fun and interactive mobile app that challenges your knowledge and rewards you with prizes based on your performance. It’s built with **Flutter** and has cool features like a dynamic scoring system, fun animations, scratch cards for prizes, state management, and questions that are fetched from an API.
+The **Quiz Game App** is a fun and interactive mobile app that challenges your knowledge and rewards you with prizes based on your performance. It’s built with **Flutter** and has cool features like a dynamic scoring system, fun animations, scratch cards for prizes, state management, and questions that are fetched from an API. This app is designed to work on both Windows desktop and mobile platforms.
 
 **Key Features**
 - **8-Question Quiz**: Each quiz session consists of 8 questions that are dynamically fetched from an external API, providing a fresh set of questions every time.
@@ -33,7 +33,13 @@ The **Quiz Game App** is a fun and interactive mobile app that challenges your k
 - **Animated Text Kit**: Text animations for a dynamic UI.
 - **Confetti Package**: Provides celebratory confetti effects.
 - **API Integration**: Questions are fetched from an external API to ensure the quiz content remains fresh.
-- 
+
+![image alt](https://github.com/pragati-paraagi/quiz_game/blob/master/Screenshot%202025-01-18%20111814.png)
+![image alt](https://github.com/pragati-paraagi/quiz_game/blob/master/Screenshot%202025-01-18%20111736.png)
+![image alt](https://github.com/pragati-paraagi/quiz_game/blob/master/Screenshot%202025-01-18%20111722.png)
+![image alt](https://github.com/pragati-paraagi/quiz_game/blob/master/Screenshot%202025-01-18%20111651.png)
+![image alt](https://github.com/pragati-paraagi/quiz_game/blob/master/Screenshot%202025-01-18%20111702.png)
+
 <img src="https://github.com/pragati-paraagi/quiz_game/blob/master/quiz_home.jpg" width="300" />
 <img src="https://github.com/pragati-paraagi/quiz_game/blob/master/quiz_correct.jpg" width="300" />
 <img src="https://github.com/pragati-paraagi/quiz_game/blob/master/quiz_Exit.jpg" width="300" />
@@ -43,8 +49,4 @@ The **Quiz Game App** is a fun and interactive mobile app that challenges your k
 <img src="https://github.com/pragati-paraagi/quiz_game/blob/master/quiz_loading.jpg" width="300" />
 <img src="https://github.com/pragati-paraagi/quiz_game/blob/master/quiz_instruction.jpg" width="300" />
 <img src="https://github.com/pragati-paraagi/quiz_game/blob/master/_rong.jpg" width="300" />
-![image alt](https://github.com/pragati-paraagi/quiz_game/blob/master/Screenshot%202025-01-18%20111814.png)
-![image alt](https://github.com/pragati-paraagi/quiz_game/blob/master/Screenshot%202025-01-18%20111736.png)
-![image alt](https://github.com/pragati-paraagi/quiz_game/blob/master/Screenshot%202025-01-18%20111722.png)
-![image alt](https://github.com/pragati-paraagi/quiz_game/blob/master/Screenshot%202025-01-18%20111651.png)
-![image alt](https://github.com/pragati-paraagi/quiz_game/blob/master/Screenshot%202025-01-18%20111702.png)
+
