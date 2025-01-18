@@ -33,3 +33,5 @@ The **Quiz Game App** is a fun and interactive mobile app that challenges your k
 - **Animated Text Kit**: Text animations for a dynamic UI.
 - **Confetti Package**: Provides celebratory confetti effects.
 - **API Integration**: Questions are fetched from an external API to ensure the quiz content remains fresh.
+
+![image alt](https://github.com/pragati-paraagi/quiz_game/blob/master/quiz_Exit.jpg)
